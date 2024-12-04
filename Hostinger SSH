@@ -1,0 +1,7 @@
+-- Hostinger SSH commands --
+
+# composer version 2
+/usr/local/bin/composer2
+
+PHP version 8.2
+/opt/alt/php82/usr/bin/php
